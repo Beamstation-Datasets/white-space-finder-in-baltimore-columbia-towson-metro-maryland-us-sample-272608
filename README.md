@@ -1,6 +1,6 @@
 # White Space Finder in Baltimore-Columbia-Towson (Metro), Maryland, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `272608` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 120 records |
-| Free sample size | 12 records (10.0%) |
-| Last export | 2026-04-15T07:01:59.298005+00:00 |
+| Full dataset size | 86 records |
+| Free sample size | 8 records (9.3%) |
+| Last export | 2026-04-22T13:14:01.714827+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-baltimore-columbia-towson-metro-maryland-us-sample-272608/releases/download/sample-latest/beamstation_272608_food_and_drink-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
