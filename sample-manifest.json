@@ -1,12 +1,12 @@
 {
-  "export_job_id": "95fe11ca-67cf-4556-ac45-39b41cbe7ef8",
+  "export_job_id": "8072c316-2bf5-4671-95e9-a138d9eb3303",
   "id_short": 272608,
-  "published_at": "2026-04-22T19:28:43Z",
+  "published_at": "2026-04-30T07:12:23Z",
   "repo_name": "white-space-finder-in-baltimore-columbia-towson-metro-maryland-us-sample-272608",
   "sample_asset_name": "beamstation_272608_food_and_drink-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/272608/beamstation_272608_food_and_drink-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "36696933a6950894ae804d73ce111bc6a299e8a18027f142ca84221b6c331a6e",
-  "sample_size_bytes": 45205,
-  "total_records": 86
+  "sample_records": 10,
+  "sample_sha256": "2a142188c164b34bca64a14dc643f5737c1396ac4497908a149ee5eb6535f9c3",
+  "sample_size_bytes": 50558,
+  "total_records": 108
 }
